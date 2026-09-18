@@ -12,8 +12,8 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
-- Green 500: hsl(158, 36%, 37%)
+ hsl(158, 36%, 37%)
+- Green 500:
 - Green 700: hsl(158, 42%, 18%)
 
 ### Neutral
